@@ -1,7 +1,1 @@
-shutil
-socket
-subprocess
-sys
-time
-random
 pyinstaller
